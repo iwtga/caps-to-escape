@@ -1,6 +1,6 @@
 # caps-to-escape
 
-A tiny script to remap the <b>useless</b> caps key to the escape key.
+A tiny script to remap the <b>useless</b> caps lock to the escape key.
 Useful primarily for VIM users.
 
 ## Usage:
